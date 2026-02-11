@@ -105,5 +105,3 @@ This project is pre-configured for Render.
 This project is open-source and available for educational purposes.
 
 ```
-
-```
