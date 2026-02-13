@@ -1,9 +1,6 @@
-Here is a professional, ready-to-use `README.md` file for your project. This documentation explains how your project works, how to set it up locally, and how to deploy it to Render.
-
-You can create a file named `README.md` in your main folder and paste this code inside.
-
-```markdown
 # 🛡️ Fraud Shield AI
+
+# Live Demo https://credit-card-fraud-detection-m62q.onrender.com
 
 A lightweight, web-based Machine Learning application designed to detect fraudulent credit card transactions. This project is optimized for deployment on resource-constrained environments (like the Render Free Tier) by utilizing a Random Forest classifier and efficient data undersampling.
 
