@@ -3,4 +3,4 @@ gunicorn
 pandas
 scikit-learn
 joblib
-numpy<2.0
+numpy<3.0
